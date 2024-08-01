@@ -1,0 +1,3 @@
+export const about_constants = {
+  body: "I consider myself to be a very open-minded person who is eager to take on new challenges, particularly those involving technology. As a front-end developer and competitive programmer, I have a LeetCode rating of 1857 with a knight badge and a CodeChef rating of 1638 with a 3-star rank. I have experience working on various projects using technologies like ReactJS, Bootstrap, JavaScript, HTML, and CSS. Beyond my professional interests, I also love watching and playing cricket, which adds a fun and active dimension to my life.",
+}; 
